@@ -1,0 +1,19 @@
+.container {
+  width: 70vw;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+img:not(#main-image) {
+  height: 150px;
+  margin-right: 30px;
+  background: pink;
+  padding: 10px;
+}
+
+#main-image {
+  width: 300px;
+}
